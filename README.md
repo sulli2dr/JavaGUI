@@ -1,2 +1,2 @@
 # JavaGUI
-"Githun/GUI Intro Lab"
+"Github/GUI Intro Lab"
